@@ -2,5 +2,5 @@
 SUIT AR tracking application
 This application is developed in collaboration with MCNS-MAHE and IUCAA
 Developer:
-    Adithya HN
+    Adithya HN: Adithyabhattsringeri@gmail.com
     Sreejith P
